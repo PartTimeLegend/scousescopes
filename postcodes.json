@@ -1,0 +1,257 @@
+[
+ {
+   "Postcode": "L1",
+   "Coverage": "City Centre",
+   "Local authority area": "Liverpool"
+ },
+ {
+   "Postcode": "L2",
+   "Coverage": "City Centre",
+   "Local authority area": "Liverpool"
+ },
+ {
+   "Postcode": "L3",
+   "Coverage": "City Centre, Everton, Vauxhall",
+   "Local authority area": "Liverpool"
+ },
+ {
+   "Postcode": "L4",
+   "Coverage": "Anfield, Kirkdale, Walton",
+   "Local authority area": "Liverpool"
+ },
+ {
+   "Postcode": "L5",
+   "Coverage": "Anfield, Everton, Kirkdale, Vauxhall",
+   "Local authority area": "Liverpool"
+ },
+ {
+   "Postcode": "L6",
+   "Coverage": "Anfield, City Centre, Everton, Fairfield, Kensington, Tuebrook",
+   "Local authority area": "Liverpool"
+ },
+ {
+   "Postcode": "L7",
+   "Coverage": "City Centre, Edge Hill, Fairfield, Kensington",
+   "Local authority area": "Liverpool"
+ },
+ {
+   "Postcode": "L8",
+   "Coverage": "City Centre, Dingle, Toxteth",
+   "Local authority area": "Liverpool"
+ },
+ {
+   "Postcode": "L9",
+   "Coverage": "Aintree, Fazakerley, Orrell Park, Walton",
+   "Local authority area": "Liverpool, Sefton"
+ },
+ {
+   "Postcode": "L10",
+   "Coverage": "Aintree Village, Fazakerley",
+   "Local authority area": "Sefton, Liverpool, Knowsley"
+ },
+ {
+   "Postcode": "L11",
+   "Coverage": "Clubmoor, Croxteth, Gillmoss, Norris Green",
+   "Local authority area": "Liverpool"
+ },
+ {
+   "Postcode": "L12",
+   "Coverage": "Croxteth Park, West Derby",
+   "Local authority area": "Liverpool"
+ },
+ {
+   "Postcode": "L13",
+   "Coverage": "Clubmoor, Old Swan, Stoneycroft, Tuebrook",
+   "Local authority area": "Liverpool"
+ },
+ {
+   "Postcode": "L14",
+   "Coverage": "Broadgreen, Dovecot, Knotty Ash, Page Moss",
+   "Local authority area": "Liverpool, Knowsley"
+ },
+ {
+   "Postcode": "L15",
+   "Coverage": "Wavertree",
+   "Local authority area": "Liverpool"
+ },
+ {
+   "Postcode": "L16",
+   "Coverage": "Broadgreen, Bowring Park, Childwall",
+   "Local authority area": "Liverpool, Knowsley"
+ },
+ {
+   "Postcode": "L17",
+   "Coverage": "Aigburth, St Michael's Hamlet, Sefton Park",
+   "Local authority area": "Liverpool"
+ },
+ {
+   "Postcode": "L18",
+   "Coverage": "Allerton, Mossley Hill",
+   "Local authority area": "Liverpool"
+ },
+ {
+   "Postcode": "L19",
+   "Coverage": "Aigburth, Garston, Grassendale, Mossley Hill",
+   "Local authority area": "Liverpool"
+ },
+ {
+   "Postcode": "L20",
+   "Coverage": "Bootle, Orrell",
+   "Local authority area": "Sefton, Liverpool"
+ },
+ {
+   "Postcode": "L20",
+   "Coverage": "Kirkdale",
+   "Local authority area": "Liverpool"
+ },
+ {
+   "Postcode": "L21",
+   "Coverage": "Ford, Litherland, Seaforth",
+   "Local authority area": "Sefton, Liverpool"
+ },
+ {
+   "Postcode": "L22",
+   "Coverage": "Waterloo",
+   "Local authority area": "Sefton"
+ },
+ {
+   "Postcode": "L23",
+   "Coverage": "Blundellsands, Brighton-le-Sands, Crosby, Little Crosby, Thornton",
+   "Local authority area": "Sefton"
+ },
+ {
+   "Postcode": "L24",
+   "Coverage": "Hale, Speke",
+   "Local authority area": "Halton Liverpool"
+ },
+ {
+   "Postcode": "L25",
+   "Coverage": "Belle Vale, Gateacre, Hunts Cross, Woolton, Halewood",
+   "Local authority area": "Liverpool, Knowsley"
+ },
+ {
+   "Postcode": "L26",
+   "Coverage": "Halewood",
+   "Local authority area": "Liverpool, Knowsley"
+ },
+ {
+   "Postcode": "L27",
+   "Coverage": "Netherley",
+   "Local authority area": "Liverpool"
+ },
+ {
+   "Postcode": "L28",
+   "Coverage": "Stockbridge Village",
+   "Local authority area": "Liverpool, Knowsley"
+ },
+ {
+   "Postcode": "L29",
+   "Coverage": "Lunt, Sefton Village",
+   "Local authority area": "Sefton"
+ },
+ {
+   "Postcode": "L30",
+   "Coverage": "Bootle, Netherton",
+   "Local authority area": "Sefton"
+ },
+ {
+   "Postcode": "L31",
+   "Coverage": "Maghull, Lydiate, Melling, Waddicar",
+   "Local authority area": "Sefton"
+ },
+ {
+   "Postcode": "L32",
+   "Coverage": "Kirkby",
+   "Local authority area": "Knowsley"
+ },
+ {
+   "Postcode": "L33",
+   "Coverage": "Kirkby",
+   "Local authority area": "Knowsley"
+ },
+ {
+   "Postcode": "L34",
+   "Coverage": "Prescot, Knowsley Village",
+   "Local authority area": "Knowsley"
+ },
+ {
+   "Postcode": "L35",
+   "Coverage": "Prescot, Whiston, Rainhill",
+   "Local authority area": "Knowsley, St Helens"
+ },
+ {
+   "Postcode": "L36",
+   "Coverage": "Huyton, Roby, Tarbock",
+   "Local authority area": "Knowsley"
+ },
+ {
+   "Postcode": "L37",
+   "Coverage": "Formby, Little Altcar, Great Altcar",
+   "Local authority area": "Sefton"
+ },
+ {
+   "Postcode": "L38",
+   "Coverage": "Ince Blundell, Hightown",
+   "Local authority area": "Sefton"
+ },
+ {
+   "Postcode": "L39",
+   "Coverage": "Ormskirk, Aughton",
+   "Local authority area": "West Lancashire"
+ },
+ {
+   "Postcode": "L40",
+   "Coverage": "Burscough, Mawdesley, Scarisbrick, Rufford, Holmeswood",
+   "Local authority area": "West Lancashire, Chorley"
+ },
+ {
+   "Postcode": "L67",
+   "Coverage": "Littlewoods Pools[4]",
+   "Local authority area": "non-geographic"
+ },
+ {
+   "Postcode": "L68",
+   "Coverage": "Vernons Pools[4]",
+   "Local authority area": "non-geographic"
+ },
+ {
+   "Postcode": "L69",
+   "Coverage": "PO boxes in central Liverpool, government departments in Liverpool and Bootle, Liverpool University[4]",
+   "Local authority area": "non-geographic"
+ },
+ {
+   "Postcode": "L70",
+   "Coverage": "seasonal response mail",
+   "Local authority area": "non-geographic"
+ },
+ {
+   "Postcode": "L71",
+   "Coverage": "American Express",
+   "Local authority area": "non-geographic"
+ },
+ {
+   "Postcode": "L72",
+   "Coverage": "Littlewoods",
+   "Local authority area": "non-geographic"
+ },
+ {
+   "Postcode": "L73",
+   "Coverage": "BT Group, large Selectapost users",
+   "Local authority area": "non-geographic"
+ },
+ {
+   "Postcode": "L74",
+   "Coverage": "HM Revenue and Customs (Customs and Excise)",
+   "Local authority area": "non-geographic"
+ },
+ {
+   "Postcode": "L75",
+   "Coverage": "HM Revenue and Customs (Inland Revenue)",
+   "Local authority area": "non-geographic"
+ },
+ {
+   "Postcode": "L80",
+   "Coverage": "",
+   "Local authority area": "non-geographic"
+ }
+]
